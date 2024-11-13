@@ -1,0 +1,2 @@
+# Agrow-d
+The project detects crop diseases by analyzing uploaded crop images and provides remedies for the detected diseases. The model was created using CNN and pre-trained models for disease classification . It also includes a model for crop recommendation based and fertilizer recommendation based on Nitrogen (N), Potassium (K), and Phosphorus  (P) values in the soil using supervised machine learning algorithms
